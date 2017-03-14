@@ -1,6 +1,6 @@
-# guilhermedelucas-quandoo-challenge
+# guilhermedelucas-autocomplete-challenge
 
-Website using Spotify API, to develop the Quandoo Autocomplete Challenge.
+Website using Spotify API, to develop Autocomplete Challenge.
 Search for your favorite artist, click and redirect to Spotify artist page.
 
 #Features:
@@ -18,7 +18,7 @@ Search for your favorite artist, click and redirect to Spotify artist page.
     * Server running on Node
 
 #How to use
-    * Clone the repo access https://guilherme-quandoochallenge.herokuapp.com/ to test
+    * Clone the repo access https://guilherme-autocomplete.herokuapp.com/ to test
     * For local machine
         - On terminal type npm install (Node npm required)
         - To start the app, type node index.js
