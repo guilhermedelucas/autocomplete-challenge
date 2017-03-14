@@ -1,0 +1,86 @@
+input {
+    border: 1px solid lightgray;
+}
+
+.container {
+    display: inline-flex;
+    flex-direction: column;
+    width: 100vw;
+    padding: 0px;
+}
+
+.search-bar{
+    text-align: center;
+    padding: 10px 15px 0px 15px;
+    width: 310px;
+    margin: auto;
+}
+
+.search-input{
+    height: 30px;
+    height: 30px;
+    flex-grow: 3;
+    margin-right: 10px;
+}
+
+.search-autocomplete-results {
+    position: absolute;
+    background: white;
+    width: 255px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.search-suggestion {
+    text-align: left;
+    padding: 10px;
+    width: 100%;
+    border-bottom: 1px solid rgb(240, 240, 240);
+    transition: 0.2s all;
+}
+
+.search-suggestion-active {
+    background-color: rgb(55, 55, 55);
+    color: white;
+    text-align: left;
+    padding: 10px;
+    width: 100%;
+    border-bottom: 1px solid rgb(240, 240, 240);
+}
+
+.search-button{
+
+}
+
+.input-bar{
+    display: inline-flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+}
+
+.display-results{
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100vw;
+}
+
+.display-card{
+    width: 310px;
+    padding: 5px 5px;
+}
+
+.display-image{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.buttons-bottom {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100vw;
+    padding-top: 20px;
+}
