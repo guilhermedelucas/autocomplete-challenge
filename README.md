@@ -14,6 +14,7 @@ Search for your favorite artist, click and redirect to Spotify artist page.
     * Component DisplayResults:
         - Show the results
         - Create buttons when results are more than five.
+    * Responsive for small screens
     * Server running on Node
 
 #How to use
