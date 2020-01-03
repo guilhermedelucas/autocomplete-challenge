@@ -1,5 +1,7 @@
 # guilhermedelucas-autocomplete-challenge
 
+DEPRECATED. SPOTIFY API REQUIRES AUTHENTICATION TO USE SEARCH
+
 Website using Spotify API, to develop Autocomplete Challenge.
 Search for your favorite artist, click and redirect to Spotify artist page.
 
